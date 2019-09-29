@@ -1,1 +1,1 @@
-This repo is a record of learning and practice using Numpy.
+This repo is a record of learning and practice using Numpy and Pandas.
